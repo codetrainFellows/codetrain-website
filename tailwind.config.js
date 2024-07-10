@@ -8,7 +8,12 @@ export default {
     "./node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        violet: "#1B1049",
+        yellow: "##FFBE0C",
+      },
+    },
   },
   darkMode: "class",
   plugins: [nextui()],
