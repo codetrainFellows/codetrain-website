@@ -24,11 +24,7 @@ const Nav = () => {
   ];
 
   return (
-    <Navbar
-      onMenuOpenChange={setIsMenuOpen}
-      className="bg-red-400"
-      maxWidth="2xl"
-    >
+    <Navbar onMenuOpenChange={setIsMenuOpen} maxWidth="2xl">
       <NavbarContent>
         <NavbarBrand>
           {/* <AcmeLogo /> */}

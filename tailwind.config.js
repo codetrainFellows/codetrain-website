@@ -11,7 +11,10 @@ export default {
     extend: {
       colors: {
         violet: "#1B1049",
-        yellow: "##FFBE0C",
+        yellow: "#FFBE0C",
+        pink: "#FF006E",
+        lightBlue: "#49CAE4",
+        textColor: "#1B1049B2",
       },
     },
   },

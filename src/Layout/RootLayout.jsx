@@ -7,8 +7,8 @@ const RootLayout = () => {
     <>
       <Nav />
       <Outlet />
-      <Footer />
-      <div className="xl:container mx-auto bg-red-200"></div>
+      {/* <Footer /> */}
+      {/* <div className="xl:container mx-auto bg-red-200"></div> */}
     </>
   );
 };
