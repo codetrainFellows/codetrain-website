@@ -1,3 +1,4 @@
+import Courses from "./sections/Courses";
 import HeroSection from "./sections/HeroSection";
 import Stats from "./sections/Stats";
 
@@ -9,6 +10,7 @@ const Home = () => {
         <p>Get to know more about Codetrain. Join our info session.✌️ </p>
       </div>
       <Stats />
+      <Courses />
     </div>
   );
 };

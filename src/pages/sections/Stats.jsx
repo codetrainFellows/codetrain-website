@@ -1,8 +1,10 @@
 const Stats = () => {
   return (
-    <div className="bg-red-400 p-4 sm:px-14 sm:py-28 text-center">
-      <h1 className="font-bold text-3xl">Codetrain Development Statistics</h1>
-      <p className="my-10 max-w-3xl mx-auto">
+    <div className="p-4 sm:px-14 sm:py-28 text-center">
+      <h1 className="font-bold text-violet text-3xl lg:text-5xl">
+        Codetrain Development Statistics
+      </h1>
+      <p className="my-10 max-w-6xl mx-auto">
         Lorem ipsum dolor sit amet consectetur. Mauris pellentesque porta donec
         enim tellus nibh adipiscing arcu. Et mi pellentesque lorem tellus eget
         nulla. Vulputate iaculis magnis aenean integer. Ultrices id aliquet
