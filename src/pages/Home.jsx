@@ -1,6 +1,7 @@
 import Courses from "./sections/Courses";
 import EarnBackYourTuition from "./sections/EarnBackYourTuition";
 import HeroSection from "./sections/HeroSection";
+import PartnersAndSupporters from "./sections/PartnersAndSupporters";
 import Stats from "./sections/Stats";
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
       <Stats />
       <Courses />
       <EarnBackYourTuition />
+      <PartnersAndSupporters />
     </div>
   );
 };
