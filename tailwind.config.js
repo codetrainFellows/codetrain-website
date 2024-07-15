@@ -10,6 +10,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        ash: "#E5E5E5",
         violet: "#1B1049",
         yellow: "#FFBE0C",
         pink: "#FF006E",
