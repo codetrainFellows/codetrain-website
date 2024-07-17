@@ -3,6 +3,7 @@ import EarnBackYourTuition from "./sections/EarnBackYourTuition";
 import HeroSection from "./sections/HeroSection";
 import PartnersAndSupporters from "./sections/PartnersAndSupporters";
 import Stats from "./sections/Stats";
+import SuccessStories from "./sections/SuccessStories";
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <Courses />
       <EarnBackYourTuition />
       <PartnersAndSupporters />
+      <SuccessStories />
     </div>
   );
 };
