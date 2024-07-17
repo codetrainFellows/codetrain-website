@@ -7,7 +7,7 @@ import techpoint from "../../assets/images/techpoint.png";
 
 const PartnersAndSupporters = () => {
   return (
-    <section className="text-center py-12 px-10">
+    <section className="text-center py-12 px-10 shadow-md">
       <h1 className="text-xl text-violet font-semibold">
         Our Partners and Supporters
       </h1>
