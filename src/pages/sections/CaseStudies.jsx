@@ -1,4 +1,4 @@
-import { Image } from "@nextui-org/react";
+import { Button, Image } from "@nextui-org/react";
 import CTLogo from "../../assets/icons/CTLogo";
 
 const CaseStudies = () => {
@@ -69,6 +69,9 @@ const CaseStudies = () => {
               Collaborative projects foster innovation and community impact
             </li>
           </ul>
+          <Button className="rounded-none text-white bg-violet mt-6">
+            Discover More Case Studies
+          </Button>
         </div>
       </div>
     </div>
