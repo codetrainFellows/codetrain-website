@@ -55,7 +55,7 @@ const CaseStudies = () => {
             funding, and grew their businesses, thanks to the tech support from
             CodeTrain students.
           </p>
-          <p className="font-bold mt-6">Key Takeaways:</p>
+          <p className="font-bold mt-6">Key Takeaways: </p>
           <ul className="list-disc leading-10 text-lg">
             <li>
               Partnerships with incubators create real-world project
